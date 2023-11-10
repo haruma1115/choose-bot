@@ -1,6 +1,6 @@
 # Choose Bot
 
-此Bot為ChatGpt寫的，只有修改小部分
+此Bot為ChatGPT寫的，只有修改小部分
 
 這是一個 Discord 機器人，可以從預定義的選項中或用戶提供的額外選項中隨機選擇一個。
 
@@ -17,7 +17,7 @@
 
 1. 安裝 Python。
 2. 安裝 Discord.py 庫：`pip install discord.py`.
-3. 將機器人令牌填入 `bot.run('YOUR_BOT_TOKEN')`。
+3. 將機器人token填入 `bot.run('token')`。
 4. 執行 `bot.py`。
 
 ## 指令
